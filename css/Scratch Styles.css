@@ -1,0 +1,62 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#Top{
+    text-decoration: underline;
+}
+
+.EmphasizedText{
+    font-style: italic;
+    color: lightslategray;
+    font-size: 20px;
+}
+.EmphasizedTextSecondLine{
+    font-style: italic;
+    color: lightslategray;
+    padding-left: 10px;
+    font-size: 20px;
+}
+body {
+    background-image: url(/assets/img/Interstellar.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+    padding:  20px;
+    text-align: left;
+    color: whitesmoke;
+}
+ol {
+    list-style-position: inside;
+}
+ul {
+    list-style-position: inside;
+}
+.title {
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.subtitle {
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Space {
+    padding-left: 25px;
+}
+
+.ImageTitle {
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(126, 134, 132);
+    padding-left: 10px;
+}
+a:visited {
+    text-decoration: none;
+    color: whitesmoke;
+}
